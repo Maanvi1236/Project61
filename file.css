@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+
+img {
+    height: 250px;
+    width: 250px;
+    border: 10px lightblue solid;
+    border-radius: 50px;
+    margin-top: 100px;
+}
+
+#tim {
+    font-family: 'Style Script', cursive;
+    font-size: 25px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    cursor: pointer;
+    z-index: 10;
+    position: absolute;
+}
+
+.links {
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    padding-top: 15px;
+    font-family: 'Comic Neue', cursive;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.links:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: 'Allison', cursive;
+    text-decoration: underline;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+a:hover {
+    text-shadow: 5px 5px 5px red;
+}
+html{
+    scroll-behavior: smooth;
+}
+h3{
+font-size: 35px;
+    color: aquamarine;
+
+    
+    
+}
